@@ -1,0 +1,28 @@
+cv_document = Document(
+page_content="Highly skilled software developer with over 10 years of experience...",
+metadata={
+'name': 'john-doe',
+'experiences':([
+{
+'company': 'company-a',
+'role': 'software-engineer',
+'years': 3,
+'location': 'usa',
+'skills': ['python', 'django', 'flask'],
+'keywords': ['web-development', 'backend', 'apis']
+},
+{
+'company': 'company-b',
+'role': 'senior-developer',
+'years': 2,
+'location': 'canada',
+'skills': ['machine-learning', 'data-analysis', 'python'],
+'keywords': ['ai', 'data-pipelines', 'ml-models']
+}
+]),
+'education': [
+{'institution': 'university-x', 'degree': 'bsc-computer-science', 'year': 2015},
+{'institution': 'university-y', 'degree': 'msc-software-engineering', 'year': 2017}
+]
+}
+)
