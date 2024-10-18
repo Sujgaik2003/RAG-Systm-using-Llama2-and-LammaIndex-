@@ -30,7 +30,7 @@ pip install llama-index pypdf
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/Llama2_with_LlamaIndex.git
+    git clone https://github.com/Sujgaik2003/Llama2_with_LlamaIndex.git
     ```
 2. Navigate to the project directory:
     ```bash
